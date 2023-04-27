@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tereza</h1>
-<h3 align="center">A civil engineer with ambitions for becoming backend developer</h3>
+<h3 align="center">A civil engineer with aspiration to develop as a programmer</h3>
 
 - 🌱 I’m currently learning **Java**
 
